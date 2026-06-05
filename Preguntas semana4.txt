@@ -1,0 +1,4 @@
+PREGUNTA#1 respuesta(B)
+PREGUNTA#2 respuesta(B)
+PREGUNTA#3 respuesta(B)
+PREGUNTA#4 respuesta(B)
